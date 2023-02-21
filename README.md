@@ -1,1 +1,2 @@
-# mooc-_artteachers_cirriculum
+# mooc_artteachers_curriculum
+
